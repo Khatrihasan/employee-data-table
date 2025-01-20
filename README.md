@@ -21,7 +21,7 @@ A responsive employee directory built using **jQuery DataTables**, designed to d
 
 1. Clone or download the repository.
    ```bash
-   git clone 
+   git clone https://khatrihasan.github.io/employee-data-table/
    ```
 
 2. Open the `index.html` file in your preferred web browser.
